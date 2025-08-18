@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore data files
+/data/*.csv
+/data/*.xlsx
+
+# Ignore Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
