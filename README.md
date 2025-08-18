@@ -45,5 +45,8 @@ The final XGBoost model was evaluated using RMSE, MAE, and R² metrics. The erro
 	streamlit run src/app.py
 	```
 
+## Live Demo
+You can try the live app here: [Crop Yield Prediction Streamlit App](https://cropyieldprediction-dmbtmptjv9q68kqrrn2mdh.streamlit.app/)
+
 ## Author
 *Emmanuel Douglas*
