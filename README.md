@@ -34,7 +34,7 @@ The final XGBoost model was evaluated using RMSE, MAE, and R² metrics. The erro
 - **MAE**: ~[62623.86] kg/ha
 - **R²**: ~[0.0999]
 
-*Replace the above with your actual results from the terminal output.*
+
 
 ## How to Use
 1. Install dependencies from `requirements.txt` (use your virtual environment)
